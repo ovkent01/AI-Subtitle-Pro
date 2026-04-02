@@ -1,0 +1,23 @@
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 打包产物
+build/
+dist/
+*.spec
+
+# 测试媒体文件
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.srt
+
+# 系统隐藏文件
+.DS_Store
+Thumbs.db
